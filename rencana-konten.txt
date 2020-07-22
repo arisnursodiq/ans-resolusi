@@ -6,3 +6,5 @@ Rencana Konten ANS
 - Membuat aplikasi HR Payroll
  * Aplikasi Pegawai
  * Aplikasi HRIS
+  ^ belajar view
+  ^ belajar absensi
