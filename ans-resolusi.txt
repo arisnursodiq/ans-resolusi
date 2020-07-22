@@ -1,2 +1,3 @@
 ANS RESOLUSI
 - Membuat fitur 2 kali seminggu secara konsisten
+- Membuat aplikasinya dengan Framework Laravel
