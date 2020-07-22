@@ -3,6 +3,9 @@ Rencana Konten ANS
 - Insatal GIt
 - Instal Laravel
 - Ada tambahan disini
+  ^ belajar reacth
 - Membuat aplikasi HR Payroll
  * Aplikasi Pegawai
  * Aplikasi HRIS
+  ^ belajar view
+  ^ belajar absensi
