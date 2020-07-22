@@ -1,3 +1,4 @@
 ANS RESOLUSI
-- Membuat fitur 2 kali seminggu secara konsisten
+- Membuat fitur 2 kali seminggu 
 - Membuat aplikasinya dengan Framework Laravel
+- Membuat HR Payroll Aplikasi Online
